@@ -1,0 +1,12 @@
+﻿  OS-Manager.cpp
+c:\users\родион\documents\github\oslab_2\os-manager\os-manager.cpp(84): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\родион\documents\github\oslab_2\os-manager\os-manager.cpp(137): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\родион\documents\github\oslab_2\os-manager\os-manager.cpp(157): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\родион\documents\github\oslab_2\os-manager\os-manager.cpp(246): warning C4172: возвращение адреса локальной или временной переменной
+c:\users\родион\documents\github\oslab_2\os-manager\os-manager.cpp(273): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\родион\documents\github\oslab_2\os-manager\os-manager.cpp(281): warning C4244: аргумент: преобразование "time_t" в "DWORD", возможна потеря данных
+c:\users\родион\documents\github\oslab_2\os-manager\os-manager.cpp(283): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\родион\documents\github\oslab_2\os-manager\os-manager.cpp(305): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\родион\documents\github\oslab_2\os-manager\os-manager.cpp(132): warning C4715: getProcessByNumber: значение возвращается не при всех путях выполнения
+c:\users\родион\documents\github\oslab_2\os-manager\os-manager.cpp(143): warning C4715: getProcessByID: значение возвращается не при всех путях выполнения
+  OS-Manager.vcxproj -> C:\Users\Родион\Documents\GitHub\OSLab_2\OS-Manager\Debug\OS-Manager.exe
